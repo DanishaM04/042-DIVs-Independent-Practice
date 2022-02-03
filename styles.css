@@ -1,0 +1,34 @@
+img {
+    height: 200px;
+}
+.header {
+    border: 12px solid gold ;
+    background-color:lightblue;
+    padding:20px;
+}
+
+.troy {
+    border: 12px solid blue ;
+    background-color:lightpink;
+    padding:20px;
+    margin: 5px;
+}
+.dogs {
+    border: 12px dashed yellow ;
+    background-color:red;
+    padding:20px;
+}
+    
+.Richard {
+    border: 12px solid blue;
+    background-color:lightpink;
+    padding:20px;
+    margin: 5px;
+}
+
+.Cats {
+    border: 12px solid purple;
+    background-color:lightgreen;
+    padding:20px;
+    margin: 5px;
+}
